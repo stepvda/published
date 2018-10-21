@@ -60,8 +60,11 @@ next is an image being displayed
 
 ## Usage ##
 
-[Check this note for more on publishing](adding_newnote_from_vscode.md)
+[Check this note for more on publishing](adding_changes_from_vscode.md)
 
+
+*Note:* It takes up to 10 minutes for GitHub to generate the HTML from the markdown `.md` files using Jekyll.
+I also noticed that there seem to be 2 stages to this process. Stage one will generate the HTML, stage 2 will rewrite links to the `.md`file into `.html` file that point to the newly generate html fie. So you may see your generated note for a while but the links pointing to it might not work yet.  Just wait a few minutes and it should work.
 
 ## Todo ##
 
