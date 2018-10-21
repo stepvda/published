@@ -9,7 +9,7 @@ If you're not yet on accessing this page through GitHub Pages go to the followin
 
 ## GitHub Pages setup ## 
 
-[go there](gitub_pages_setup.md)
+[go there](github_pages_setup.md)
 
 Steps I took to setup GitHub pages for my onw Notes sharing. This is a custom setup that can be used as an example but is my no means a complete how to reference.
 
