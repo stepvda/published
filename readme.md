@@ -2,7 +2,7 @@
 
 <https://south.stepvda.net>
 or until we have working SSL certificate:
-<http://south.stepvdva.net>
+<http://south.stepvda.net>
 
 ## small test first ##
 
