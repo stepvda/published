@@ -106,7 +106,7 @@ Next I tried to use more HTML to resize the video, this time by using the `img`t
 
 <img src="https://south.stepvda.net/lib/duckduckGo_demo_ffmpeg.gif" width="580" height="337">
 
-/details
+</details>
 
 >you can [install](https://formulae.brew.sh/formula/ffmpeg) ffmpeg with homebrew `brew install ffmpeg`
 
