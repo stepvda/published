@@ -58,7 +58,9 @@ next is an image being displayed
 	* It took 30 min or so for GitHub to generate an SSL certificate. So until this is done you can access the custom domain via unencrypted http://south.stepvda.net
 * It's a good idea to check "enforce HTTPS" on the settings page (once the certificate is generated). Accesses via regular http:// will get redirected to https://
 
+## Usage ##
 
+[Check this note for more on publishing](adding_newnote_from_vscode.md)
 
 
 ## Todo ##
