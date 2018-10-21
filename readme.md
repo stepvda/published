@@ -1,8 +1,8 @@
 # My publications #
 
 <https://south.stepvda.net>
-or until we have working SSL certificate:
-<http://south.stepvda.net>
+
+(SSL certificate is working now so no need to use the unsecure <http://south.stepvda.net>)
 
 ## small test first ##
 
