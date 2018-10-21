@@ -7,9 +7,7 @@ If you're not yet on accessing this page through GitHub Pages go to the followin
 (SSL certificate is working now so no need to use the unsecure <http://south.stepvda.net>)
 
 
-## GitHub Pages setup ## 
-
-[go there](github_pages_setup.md)
+## [GitHub Pages setup](github_pages_setup.md) ## 
 
 Steps I took to setup GitHub pages for my onw Notes sharing. This is a custom setup that can be used as an example but is my no means a complete how to reference.
 
