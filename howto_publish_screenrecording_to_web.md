@@ -116,6 +116,28 @@ If you have the capability to stream video then you might want to consider this 
 
 I quickly found a good online converter to convert my QuickTime movie to .webm format. This time there was no watermark. Here's the link to this free service <https://www.aconvert.com/video/mov-to-webm/>
 
+## Option 6 - Animated Gif with gifify ##
+
+reference: <https://github.com/jclem/gifify>
+
+This one produces a high quality animated gif but the file size is about the same as the .mov file.
+
+I should also point out that it took quiet a bit of time and while the process is running from the commmand line there is no output. Just be patient and don't panic that the thing crashed. With activity monitor you can check for process `magick` which will be present while gifify is running.
+
+Based on default settings
+
+````bash 
+gifify adding_newnote_from_vscode.mov
+````
+
+Additional try with option for reducing the frame rate to 15 fps and doubling the playback speed
+
+````bash
+gifify -r 15@2 adding_newnote_from_vscode.mov
+`````
+
+
+
 ## Compatability ##
 
 This gives us already quiet a bit of choice one would say, but that is before you start testing. As it turns out not every option works well in every scenario. This all has to do with the way that  the `markdown` gets  rendered into HTML. I did my testing myself using the following methods :
