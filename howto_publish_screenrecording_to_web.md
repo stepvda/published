@@ -134,8 +134,63 @@ Additional try with option for reducing the frame rate to 15 fps and doubling th
 
 ````bash
 gifify -r 15@2 adding_newnote_from_vscode.mov
-`````
+````
 
+## Option 7 - Embedding MKV vids with Autoplay (Chrome only) ##
+
+I managed to achieve high quality, high compression and autoplay with this solution. BUT it only works on Chrome.
+
+I used Handbrake with Google's VP9 encoder to produce a `.mkv` file from a QuickTime screen recording. This reduced the filesize from 42MB to 8MB. I also dropped the frame rate to 15fps and set the encoder to constant quality of 23 instead of constant bitrate.
+
+[Here's an example](https://south.stepvda.net/github_pages_force_update_playback.html)
+
+It also includes a javascript function which displays error messages in other browsers and users can still download the file.
+
+Here's the HTML code which includes the javascript for errorhandling on non-Chrome browsers:
+
+````html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+ <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+
+ <title>Untitled 1</title>
+</head>
+<body>
+
+<p><video src="github_pages_force_update.mkv" type='video/x-matroska; codecs="theora, vorbis"' autoplay controls onerror="failed(event)" ></video></p>
+<p><a href="github_pages_force_update.mkv">Download the video file</a>.</p>
+
+</body>
+
+<script>
+ 
+ function failed(e) {
+   // video playback failed - show a message saying why
+   switch (e.target.error.code) {
+     case e.target.error.MEDIA_ERR_ABORTED:
+       alert('You aborted the video playback.');
+       break;
+     case e.target.error.MEDIA_ERR_NETWORK:
+       alert('A network error caused the video download to fail part-way.');
+       break;
+     case e.target.error.MEDIA_ERR_DECODE:
+       alert('The video playback was aborted due to a corruption problem or because the video used features your browser did not support. Try using Chrome as your Browser');
+       break;
+     case e.target.error.MEDIA_ERR_SRC_NOT_SUPPORTED:
+       alert('The video could not be loaded, either because the server or network failed or because the format is not supported. Try using Chrome as your Browser');
+       break;
+     default:
+       alert('An unknown error occurred.');
+       break;
+   }
+ }
+</script>
+</html>
+
+````
 
 
 ## Compatability ##
