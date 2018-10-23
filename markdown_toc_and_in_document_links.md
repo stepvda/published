@@ -1,7 +1,9 @@
 ---
 date: Monday, 22 October 2018 at 18:04:17
 title: markdown_toc_and_in_document_links
----# Markdown TOC and in document links #
+---
+
+# Markdown TOC and in document links #
 
 
 Put directly closed HTML anchor `<a name="id"/>` tags in your document where you want to link to as follows
@@ -28,10 +30,10 @@ creating a table of contents with links from the reference points also becomes e
 ---
 
 
-# example #
+## example ##
 
 <a name="toc"/>
-## contents: ##
+### contents: ###
 
  * [data](#dataname)
  * [requests](#requests)
@@ -43,28 +45,28 @@ creating a table of contents with links from the reference points also becomes e
 ---
 
 <a name="dataname"/>
-## [▲](#toc) data ##
+### [▲](#toc) data ###
 
 <br>
 
 ---
 
 <a name="requests"/>
-## [▲](#toc) requests ##
+### [▲](#toc) requests ###
 
 <br>
 
 ---
 
 <a name="udpates"/>
-## [▲](#toc) updates ##
+### [▲](#toc) updates ###
 
 <br>
 
 ---
 
 <a name="documents"/>
-## [▲](#toc) documents ##
+### [▲](#toc) documents ###
 
 <br>
 
