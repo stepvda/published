@@ -19,5 +19,3 @@ Research and recommendations on how to publish good quality screen recordings st
 ## [Markdown TOC and in document links](markdown_toc_and_in_document_links.md) ##
 
 How to create links that that point to other places inside the same document. This can also  be used to create a Table of Contents (aka TOC)
-
-update test
