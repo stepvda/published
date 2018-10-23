@@ -192,6 +192,8 @@ Here's the HTML code which includes the javascript for errorhandling on non-Chro
 
 ````
 
+reference: <https://stackoverflow.com/questions/21192713/how-to-playback-mkv-video-in-web-browser#34068714>
+
 
 ## Compatability ##
 
@@ -212,6 +214,12 @@ This gives us already quiet a bit of choice one would say, but that is before yo
 ## ![steps](https://south.stepvda.net/lib/details.png) **Bottom Line** ##
 
 Youtube offers a quick solution with good quality and integration with QuickTime. Offcourse you have to take all that comes with the social networking and personalized adds. But if you don't have a hosting option for static files then youtube also solves this for you. For the other options I had to host the images and videos on a server myself.
+
+I'm inclined to go with option 7 so far despite the fact that it only works on Chrome. It has proper error handling for other browsers so users know what's going on.
+
+TODO:
+
+ - [ ] I still want to figure out if I can embed this solution in markdown where I encode using VP9 with handbrake and embed using html video tag.
 
 ==========
 
