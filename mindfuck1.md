@@ -1,4 +1,4 @@
-# mind fuck number 1 :
+# mind fuck number 1 :  
 # anti-mirror 
 
 > convince a victim that something is written on their face that they cannot see themselves.
