@@ -4,9 +4,6 @@
 
 # mind fuck number 1 :  ...
 
-
-[]()
-
 ## introduction
 More then what I can say, listen to [Emergency on Planet Earth](https://youtu.be/zuR5TYI5Qkg) by Jamiroquai.
 
