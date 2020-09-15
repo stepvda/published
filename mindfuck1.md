@@ -1,5 +1,15 @@
-# mind fuck number 1 :  
-# anti-mirror 
+
+
+
+
+# mind fuck number 1 :  ...
+
+## introduction
+My problem is that so many is coming straight at me from within me. This didn't used to be a problem. Some may have called me a loner. I never truly was that. Though I am always full of ideas.  So this didn't used to be a problem. Gradually, yet slower, I learned about other people. Turns out that is cool and even more fun. You can do things together, you can even share things. So I'm a fan of together. The thing is there is some sort of upper limit to what one can process. Someone who is high-sensitive, like myself, gets even more to process from within and from the rest of the world on top of all that. So one can get overloaded. So I try to let some of it do its thing on a uncontious level and let it slide on the contious level. Sometimes I can find peace in that it all will be fine. But unfortunately the world is not okay. Moreover there is a lack of urgency. To many things are going wrong, more then what most can grasp at any given time. All this fear of what can go wrong, what is going wrong, and that you, or me for one, find too important to just let it slide. This is why I'm trying to act, even with the very limited means at my disposal like writing this essay.
+
+So I'm calling this an esssay for now. I'm leaving it up to you on whether you want to consider this non-ficiont, fiction or science-fiction.
+
+## anti-mirror 
 
 > convince a victim that something is written on their face that they cannot see themselves.
 
