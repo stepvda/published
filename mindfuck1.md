@@ -13,7 +13,7 @@ My problem is that so many is coming straight at me from within me. This didn't 
 
 So I'm calling this an esssay for now. I'm leaving it up to you on whether you want to consider this non-fiction, fiction or science-fiction.
 
-If you truly are a Jamiroquai fan like myself you will also like their song "Virtual Insanity" from the album "Return of the Space Cowboy".
+If you truly are a Jamiroquai fan like myself you will also like their song "Virtual Insanity" from the album "Traveling without moving".
  
 ## anti-mirror 
 
