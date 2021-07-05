@@ -31,6 +31,6 @@ People right know organize themselves in “groups” in order to better defend 
 I for one continue to fight. Is it to overcome this mental torment? Or a hidden foo from outside? In any event, I’m keeping my sanity by carefully taking into account a variety of afflictions that could be upon me right now.   
 
 
-## Do you want to know more? 
+**Do you want to know more?**  
 stephane@stepvda.net
 
