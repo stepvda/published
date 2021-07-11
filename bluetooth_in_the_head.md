@@ -37,6 +37,6 @@ stephane@stepvda.net
 working on more. here's a temporary link to starting manuscript and notes:  
 most recent version: 
   * <https://www.icloud.com/iclouddrive/0tUTk0LxVrOvIN4plfhEvQGmA#20210711_-_theory_of_everything_(manuscript-notes)>   
-  * [alternate link]("&#50;&#48;&#50;&#49;&#48;&#55;&#49;&#49;&lowbar;&#45;&lowbar;&#116;&#104;&#101;&#111;&#114;&#121;&lowbar;&#111;&#102;&lowbar;&#101;&#118;&#101;&#114;&#121;&#116;&#104;&#105;&#110;&#103;&lowbar;&lpar;&#109;&#97;&#110;&#117;&#115;&#99;&#114;&#105;&#112;&#116;&#45;&#110;&#111;&#116;&#101;&#115;&rpar;&period;&#112;&#100;&#102;")  
+  * [alternate link](&#50;&#48;&#50;&#49;&#48;&#55;&#49;&#49;&lowbar;&#45;&lowbar;&#116;&#104;&#101;&#111;&#114;&#121;&lowbar;&#111;&#102;&lowbar;&#101;&#118;&#101;&#114;&#121;&#116;&#104;&#105;&#110;&#103;&lowbar;&lpar;&#109;&#97;&#110;&#117;&#115;&#99;&#114;&#105;&#112;&#116;&#45;&#110;&#111;&#116;&#101;&#115;&rpar;&period;&#112;&#100;&#102;)  
 previous version: <https://drive.google.com/file/d/1-hNtqeyBpYjmMI-uTFee_uvbPNW0gQ6c/view?usp=sharing>
 
