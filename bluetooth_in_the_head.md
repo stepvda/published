@@ -35,4 +35,5 @@ I for one continue to fight. Is it to overcome this mental torment? Or a hidden 
 stephane@stepvda.net 
 
 working on more. here's a temporary link to starting manuscript and notes:  
-<https://drive.google.com/file/d/1-hNtqeyBpYjmMI-uTFee_uvbPNW0gQ6c/view?usp=sharing>
+most recent version: <https://www.icloud.com/iclouddrive/0tUTk0LxVrOvIN4plfhEvQGmA#20210711_-_theory_of_everything_(manuscript-notes)>  
+previous version: <https://drive.google.com/file/d/1-hNtqeyBpYjmMI-uTFee_uvbPNW0gQ6c/view?usp=sharing>
