@@ -32,5 +32,7 @@ I for one continue to fight. Is it to overcome this mental torment? Or a hidden 
 
 
 **Do you want to know more?**  
-stephane@stepvda.net
+stephane@stepvda.net 
 
+working on more. here's a temporary link to starting manuscript and notes:  
+<https://drive.google.com/file/d/1-hNtqeyBpYjmMI-uTFee_uvbPNW0gQ6c/view?usp=sharing>
