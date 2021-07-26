@@ -34,6 +34,8 @@ I for one continue to fight. Is it to overcome this mental torment? Or a hidden 
 **Do you want to know more?**  
 stephane@stepvda.net 
 
+- 26/7/2021 lastest version: [theory_of_everything.docx](theory of everything)
+
 working on more. here's a temporary link to starting manuscript and notes:  
 most recent version: 
   * <https://www.icloud.com/iclouddrive/0tUTk0LxVrOvIN4plfhEvQGmA#20210711_-_theory_of_everything_(manuscript-notes)>   
