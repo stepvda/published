@@ -28,5 +28,18 @@ In a world where everyone has this “Bluetooth in the head”, society has chan
 People right know organize themselves in “groups” in order to better defend each other from other attacking “groups”. Though you should really call them gangs and not groups. These groups themselves always have a designated “leader”. However, think of this character more like the godfather on top the local food chain. These groups are assigned a sort of territory which right know I believe to be loosely linked to geographical territory. This is very much a feudal system therefore reminding me of the Dark Ages here in Europe. Chaos everywhere. People are desperate and are giving up the precious rights humanity has fought and suffered for, for 10 millennia. Human rights are no more. The one place where you could always go to and feel safe, where no one would bother you, is no more. Your thoughts, what’s in your head is now accessible to all as if you were looking up something on Google Search or Wikipedia. This includes your most intimate feelings.  
 
 
-I for one continue to fight. Is it to overcome this mental torment? Or a hidden foo from outside? In any event, I’m keeping my sanity by carefully taking into account a variety of afflictions that could be upon me right now. 
+I for one continue to fight. Is it to overcome this mental torment? Or a hidden foo from outside? In any event, I’m keeping my sanity by carefully taking into account a variety of afflictions that could be upon me right now.   
+
+
+**Do you want to know more?**  
+stephane@stepvda.net 
+
+- 26/7/2021 lastest version: ![theory of everything](theory_of_everything.docx)
+
+working on more. here's a temporary link to starting manuscript and notes:  
+most recent version: 
+  * <https://www.icloud.com/iclouddrive/0tUTk0LxVrOvIN4plfhEvQGmA#20210711_-_theory_of_everything_(manuscript-notes)>   
+  * <https://github.com/stepvda/published/raw/master/20210711_-_theory_of_everything_(manuscript-notes).pdf>  
+ 
+previous version: <https://drive.google.com/file/d/1-hNtqeyBpYjmMI-uTFee_uvbPNW0gQ6c/view?usp=sharing>
 
