@@ -26,6 +26,8 @@ These links will gradually be made functionall as time goes by. Should you have 
 		
 
 - Man in the Middle attach
+
+- MAil server proxy running on localhost and possibly resolving real mail server addresses through dns poisoning 
  
 - Remote Control of screen/browser
     * possibly using Chrome Remote Desktop in a malware version
@@ -44,7 +46,10 @@ These links will gradually be made functionall as time goes by. Should you have 
 	
 	
 ## Would you like to know more?
-Contact me directly: 
-email1: stephane@stepvda.net 
-email2: stepvda@mac.com
-(best to send to both email addresses at once)
+__Contact me directly__:  
+email1: stephane@stepvda.net  
+email2: stepvda@mac.com  
+(if in doubt send to both email addresses at once)  
+__twitter/linkedin__: @stepvda  
+
+__location__: Brussels, Belgium.
