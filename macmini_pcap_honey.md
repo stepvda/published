@@ -12,6 +12,7 @@ These links will gradually be made functionall as time goes by. Should you have 
 
 
 ## Possible hacking and malware types that were used
+To investigate further:
 
 - cache poisoning
 	- search result caching on iOS (similar like contact search result leading to <https://www.icloud.com/enable_cookies> )
@@ -27,7 +28,7 @@ These links will gradually be made functionall as time goes by. Should you have 
 
 - Man in the Middle attach
 
-- MAil server proxy running on localhost and possibly resolving real mail server addresses through dns poisoning 
+- Mail server proxy running on localhost and possibly resolving real mail server addresses through dns poisoning 
  
 - Remote Control of screen/browser
     * possibly using Chrome Remote Desktop in a malware version
@@ -37,19 +38,21 @@ These links will gradually be made functionall as time goes by. Should you have 
 - Also real devices (that are not in use) can be abused to pose as NIC's and play a role in the obfuscating of network flows via bridging spaghetti.
 
 - spoofing
-  * MAC address spoofing: becomes apparent when chaning IP's (e.g. dhcp)
-    - more frequently used on Wifi
+  * MAC address spoofing: becomes apparent when chaning IP's (e.g. dhcp). This more frequently used on Wifi.
 
   * entire computer + account spoofing (using iCloud)
     - could be done with a simple restore from an offline backup copy 
     - likekly also done on iOS using iCloud backup restore to hacker spoofed version of own device. 
+
+ - System files in /System/Library are not original install files including some .kext kernel extensions. These files were not picked up by virusscan by Bitdefender AV. I uploaded a zip file with the suspicious kernel extensions for further analysis for malware: [suspicious kexts](https://drive.google.com/file/d/15BIElGbVEdLKuQGq7Yk6JEZAbEjInsIY/view?usp=sharing)  
+   
 	
 	
 ## Would you like to know more?
 __Contact me directly__:  
-email1: stephane@stepvda.net  
-email2: stepvda@mac.com  
+email1: <stephane@stepvda.net>  
+email2: <stepvda@mac.com>  
 (if in doubt send to both email addresses at once)  
-__twitter/linkedin__: @stepvda  
-
-__location__: Brussels, Belgium.
+__twitter__: [@stepvda](https://twitter.com/stepvda)    
+__linkedin__: [stepvda](https://www.linkedin.com/in/stepvda)   
+__location__: Brussels, Belgium
