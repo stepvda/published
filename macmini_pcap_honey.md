@@ -7,6 +7,7 @@ These links will gradually be made functionall as time goes by. Should you have 
 - gdrive: <https://drive.google.com/drive/folders/1KYLGDAu7n_eMzzKFAJeqAitXET-uOzZ8?usp=sharing>
 
 - onedrive: <https://onedrive.live.com/?id=root&cid=F1C17304E7180CB6#id=F1C17304E7180CB6%2161270&cid=F1C17304E7180CB6>
+- onedrive (public): https://1drv.ms/f/s!ArYMGOcEc8Hxg95Wnpqlq2YEpNgz0A
 
 - github: <https://github.com/stepvda/captures>
 
