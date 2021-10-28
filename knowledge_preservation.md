@@ -31,6 +31,7 @@ This project is in its startup phase. Many aspects of it are still being defined
 
 
 ### What content and what knowledge is identified as worth preserving?
+In order not to draw unwanted attention on the internet this list will not be made available here. Please contact us should you want to have a better idea of what we keep.
 
 
 ### How we decide what is useful and what not?
@@ -43,5 +44,12 @@ This project is in its startup phase. Many aspects of it are still being defined
 
 
 ### When would we stop distributing knowledge?
+
+
+### How are we funded?
+
+
+### How do we respect intelectual property?
+Yes. We respect the rights of the author and share a believe that copyright and other rights to content are key in the proliferation and creation of knowledge itself. Limiting distribution of knowledge to the period or periods where critical infrastructure becomes unavailable should be the first and foremost guarantee to this. We are open to other suggestions and requirements from copyright holders to ensure their rights.
 
 
