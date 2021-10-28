@@ -13,6 +13,13 @@ Distribution could be a format like a DVD or a more limited local network.
 We already archive sources such as Wikipedia in many languages. 
 I would however prefer not to be dependant on a single source. By this I consider open source content as a single source. Wikipedia as do other media that are open source come with their own particular vulnerabilities. Having access to content about the same or similar topic from multiple sources provides a better guarantee for accuracy and completeness away from bias.
 
+The questions I try to provide a solution to in case of crisis are of a practical kind as well as of a human kind. Here are some examples:    
+How can you purify water so you can drink it?  
+How to build a wind mill? a solar panel? or even a nuclear power plant?  
+What stories can you read your children before they go to sleep?  
+Where can you find that book to read for yourself?   
+How can you get inspired?  
+
 ## View on cultural and political influence
 We plan to save knowledge as is. This includes leaving in cultural and political bias. Providing knowledge from multiple sources should make it possible for the reader to choose a particular source that is closer to his or her beleives and convictions. Whomever wishes to understand a broader view can also choose to go through different sources about the same. Different languages will typically also provided more nuanced differences. Translations are therefore also considered important.
 
