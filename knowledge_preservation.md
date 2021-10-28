@@ -7,8 +7,8 @@ title: Knowledge Preservation
 
 ## Introduction 
 I’m working on a project to preserve knowledge of mankind for future generations.
-The idea is to make it less dependant of critical infrastructure such libraries, internet.
-In case critical infrastructure would no longer allow knowledge to be spread than we would provide free access to what we store.
+The idea is to make it less dependant on critical infrastructure such libraries, internet.
+In case critical infrastructure would no longer allow knowledge to be spread than we would provide access for free to what we store.
 Distribution could be a format like a DVD or a more limited local network.
 We already archive sources such as Wikipedia in many languages. 
 I would however prefer not to be dependant on a single source. By this I consider open source content as a single source. However Wikipedia as do other media that are open source come with their own particular vulnerabilities. Having access to content about the same or similar topic from multiple sources provides a better guarantee for accuracy and completeness away from bias.
@@ -47,7 +47,7 @@ In order not to draw unwanted attention on the internet this list will not be ma
 
 
 ### How are we funded?
-
+This initiative is driven by private individuals that keep the initiative going on their own. Help is always welcome as long as the key principles of what we do and our independence is nog jeoperdized. 
 
 ### How do we respect intelectual property?
 Yes. We respect the rights of the author and share a believe that copyright and other rights to content are key in the proliferation and creation of knowledge itself. Limiting distribution of knowledge to the period or periods where critical infrastructure becomes unavailable should be the first and foremost guarantee to this. We are open to other suggestions and requirements from copyright holders to ensure their rights.
