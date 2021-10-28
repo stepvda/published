@@ -49,7 +49,7 @@ In order not to draw unwanted attention on the internet this list will not be ma
 
 
 ### How are we funded?
-This initiative is driven by private individuals that keep the initiative going on their own. Help is always welcome as long as the key principles of what we do and our independence is nog jeoperdized. 
+This initiative is driven by private individuals that keep the initiative going on their own. Help is always welcome as long as the key principles of what we do and our independence is not jeoperdized. 
 
 
 ### How do we respect intelectual property?
