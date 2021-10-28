@@ -24,8 +24,7 @@ If you wish to contribute by providing
  - time to maintain and setup a distribution which obviously includes maintaining a local copy of what we store  
 
 Please contact:
-Stephane van der Aa
-email <stephane@stepvda.net>
+Stephane van der Aa via email <stephane@stepvda.net>.  
 
 ## Frequently Asked Questions
 This project is in its startup phase. Many aspects of it are still being defined. This includes questions around the topics below. Feel free to contact me directly for any enquiry you have at present. I will provide more information on this page as the project gets underway.  
