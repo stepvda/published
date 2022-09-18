@@ -32,7 +32,7 @@ In a world where your thoughts are no longer your own, your rational thinking ca
 
 So far I've been talking about rational thinking but we are never just rational, we always have an emotional backdrop. 
 
-The data collection of thoughts that I explained in the beginning links our rational thoughts to an emotional state. When external thoughts are injected they can also trigger emotions through parallel associations. When thinking about the weather tomorrow, an almost subliminal injected thought of "fire", will trigger a (faster) emotional reaction of fear into your rational thinking about tomorrows weather. This in turn can steer your next thought into a different direction and on it goes. You might think that predicted fall will cause a landslide in which while driving your car you could be swept away.
+The data collection of thoughts that I explained in the beginning links our rational thoughts to an emotional state. When external thoughts are injected they can also trigger emotions through parallel associations. When thinking about the weather tomorrow, an almost subliminal injected thought of "fire", will trigger a (faster) emotional reaction of fear into your rational thinking about tomorrows weather. This in turn can steer your next thought into a different direction and on it goes. You might think that predicted rain fall will cause a landslide in which while driving your car you could be swept away.
 
 When enough thought data is collected the steering of thoughts by applying previous identified patterns becomes not that difficult. Not only can thoughts be directly manipulated, steered, your thinking is now also predictable within a set margin of error.
 
