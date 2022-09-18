@@ -14,7 +14,7 @@ The effectiveness of ML is limited by what data you capture. Weather predictions
 So how would you start to collect actual humand thoughts in a way that can be exploited to do something meaningfull? You need to start by defining the data structure. Unlike the weather human thoughts can be structured and captured as follows:
  - Language with words and phrases 
  - Emotional state (curiosity, fear, hate, love, anger, ...) => can be derived from vital signs
- - Vital signs (hearth rithme, stress, breathing, ...). 
+ - Vital signs (hearth rithme, stress, breathing, ...).  
 These 3 combined form a single data point that is collected for machine learning. This forms a database of converted data from its initial analogue form to an abstraction in digital format.
 
 The patterns that are recognized may include the mapping of associations that recur. For instance if you think about a person you love your hearth rate might increase slightly and derived from those 2 elements an emotional state of "love" can be derived. Another example could be if you think about space exploration and the moon an emotional state of curriosity might exist.
