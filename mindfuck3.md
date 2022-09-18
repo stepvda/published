@@ -5,9 +5,9 @@ title: How machine learning of thoughts works
 
 
 # How machine learning of thoughts works  
-Machine Learning (ML), Artificial Inteligence works using a neural net. This net anylyses incoming data and tries to find patterns in this data that are then stort in the neural net and that can then be used to predict future patterns. 
+Machine Learning (ML), Artificial Inteligence works using a neural net. This net anylyses incoming data and tries to find patterns in this data that are then stored in the neural net and that can then be used to predict future patterns. 
 
-The unit of data that gets captured tends to be stable. For instance caturing temperature, humidity data is a stable, structured dataset that is used to predict the weather. So weather prediction used vast amounts of such data collected over long periods of time.
+The unit of data that gets captured tends to be stable. For instance capturing temperature, humidity data is a stable, structured dataset that is used to predict the weather. So weather prediction used vast amounts of such data collected over long periods of time.
 
 The effectiveness of ML is limited by what data you capture. Weather predictions become more accurate if you also add satelite images to the data set of temperature and humidity.
 
