@@ -13,7 +13,7 @@ These are the lousy possibly fake pages that seem machine translated:
 - Wikipedia DE on "Land (Deutchland)": <https://de.wikipedia.org/wiki/Land_(Deutschland)> 
 - Wikipedia EN on "Country Germany)": <https://de.wikipedia.org/wiki/Land_(Deutschland)>  
       ***Notice*** the missing leading bracket compared which is not missing in the German version.
-
+To check; <https://en.wikipedia.org/wiki/States_of_Germany>
 
 These look like the correct pages:  
  - Wikipedia DE on "Deutchland": <https://de.wikipedia.org/wiki/Deutschland> 
