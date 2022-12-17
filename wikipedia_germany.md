@@ -8,7 +8,7 @@ Fake and misleading pages on Germany/Deutchland on Wikipedia. Seems deliberately
 These are the lousy possibly fake pages that seem machine translated. 
 - Wikipedia DE on "Land (Deutchland)": <https://de.wikipedia.org/wiki/Land_(Deutschland)> 
 - Wikipedia EN on "Country Germany)": <https://de.wikipedia.org/wiki/Land_(Deutschland)> 
-      _==Notice== the missing leading bracket compared which is not missing in the German version._ 
+      _***Notice*** the missing leading bracket compared which is not missing in the German version._ 
 
  - Wikipedia DE on "Deutchland": <https://de.wikipedia.org/wiki/Deutschland> 
  - Wikipedia EN on "Germany": <https://en.wikipedia.org/wiki/Germany> 
