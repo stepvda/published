@@ -7,3 +7,5 @@ Depending on which variant and your believe or disbelieve in any or only part of
 To date I've learned that 2.6 billion KM4more's, individuals were lost in the fight with #ATG which is now, for the wrong reasons, a fight with all humans. You can't really blame them, but we can, should and will blame #ATG Alight.
 
 link to videos taken at my place with home security cam (logitech circle) in infrared:  [lib/km4more_vids][vids]
+
+[https://www.google.com][google]
