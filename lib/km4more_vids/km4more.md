@@ -6,6 +6,9 @@ With infrared these flying things move through my living room and some seem to f
 Depending on which variant and your believe or disbelieve in any or only part of it, some could also be custom's which according to some voices are actually KM4more's, that are harvested, repurposed, reprogrammed. All a while, though not the right word, "dehumanising", intelligent, living creatures fits. They (#atg) are using them as a resource to use/abuse and turn them into weapons and tools for the telepathic scene: slavery, or as they named it themselves in a conversation: genocide. Still I have to keep doubting myself on their existence. ATG, Boris Vanrillaer makes sure, I am never told anything with certainty, never I get any affirmation of anything talked about with me through telepathy. I actually feel possibly disrespectful towards KM4more if I have to learn that they are real, I should have treated them the way I try to treat other human, with respect, patience and humanity. Being manipulated and all to often fooled by ATG I have to weigh this against also keeping some respect for myself; self respect. I cannot allow myself to be fooled all the time, because I want to be descent, good, person. If I don't make it, please excuse any disrespect from my part that might have been undeserved. I could have failed to be good, but I have tried and if still alive, will always continue to do good and not look back. Hopefully more humans will beter learn to understand KM4more, in their diversity that goes much further then their 2 class system of "3pekkels" and "klingons".
 To date I've learned that 2.6 billion KM4more's, individuals were lost in the fight with #ATG which is now, for the wrong reasons, a fight with all humans. You can't really blame them, but we can, should and will blame #ATG Alight.
 
-link to videos taken at my place with home security cam (logitech circle) in infrared:  [Stephane's km4more videos](../km4more_vids)
+link to videos taken at my place with home security cam (logitech circle) in infrared:    
+[Stephane's km4more videos](https://github.com/stepvda/published/tree/6dc821000893fc11a90bbc48137ff3d09f7870c1/lib/km4more_vids)
+
+
 
 
