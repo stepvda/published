@@ -8,4 +8,4 @@ To date I've learned that 2.6 billion KM4more's, individuals were lost in the fi
 
 link to videos taken at my place with home security cam (logitech circle) in infrared:  [lib/km4more_vids][vids]
 
-[https://www.google.com][google]
+[google][https://www.google.com]
