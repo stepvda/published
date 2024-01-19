@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+    <title>FileMind</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="lib/w3pro.css">
+    <style>
+        td,img {
+            text-align: center;
+            vertical-align: top;
+        }
+        /* Create two columns/boxes that floats next to each other */
+        nav {
+        float: left;
+        width: 20%;
+        height: 600px; /* only for demonstration, should be removed */
+        background: rgb(35, 63, 111);
+        padding: 20px;
+        vertical-align: middle;
+        color: #ffffff;
+      
+        }
+        article {
+        float: left;
+        padding: 20px;
+        width: 70%;
+        background-color: #ffffff;
+        height: 600px; /* only for demonstration, should be removed */
+        }
+        /* Clear floats after the columns */
+        section::after {
+        content: "";
+        display: table;
+        clear: both;
+        }
+    </style>
+</head>
+<body>
+    <section>
+    <nav>
+        <br><br><br><br><h1><b>Can you really trust your files?</b></h1>
+    
+
+    </nav>
+    <article>
+
+    <br><br>
+    <center>
+    <table>
+        <tr>
+            <td >
+                <img alt="malware" src="lib/malware.png" width="100" />
+            </td>
+            <td>
+                <img alt="broken file" src="lib/brokenfile.png" width="100"/>
+            </td>
+            <td>
+                <img alt="lost file" src="lib/lostfile.png" width="100"/>
+            </td>
+            <td>
+                <img alt="storage problems" src="lib/storageproblems.png" width="100"/>
+            </td>
+            <td>
+                <img alt="backup" src="lib/backup.png" width="100"/>
+            </td>
+        </tr>
+            <td >
+                Malware<br>and<br>virusses
+            </td>
+            <td>
+                Damaged<br>Files
+            </td>
+            <td>
+                Lost<br>files
+            </td>
+            <td>
+                Storage<br>problems
+            </td>
+            <td>
+                Backups
+            </td>
+        </tr>
+    </table>
+    </center>
+    <br>
+    <center>   
+        <img src="lib/filemind.png" width="350" >
+        <p>
+            Restore file <b>trustworthyness</b> by<br><b>sharing</b> trust with others
+        </p>
+        <br>
+        <a href="mailto:stephanev@algoconsulting.net">contact us</a>
+    </center>
+    </article>
+    </section>
+</body>
+</html>
