@@ -12,22 +12,22 @@ Van Volxemlaan 208 bus 31
 1190 Brussel/Vorst  
 Tel: 0493701601
 
-__betreffende:__ 
- - Beschikking - verstek - kortgeding 
- - datum uitspraak: 17/01/2024
- - repertoriumnummer: 2024/690
- - rolnummer: 2024/2/C
- - kamer: 10de kamer - Kortgeding Voorlopige Maatregelen art.584 Ger.w.
- - van: 
+__betreffende:__  
+ - Beschikking - verstek - kortgeding  
+ - datum uitspraak: 17/01/2024  
+ - repertoriumnummer: 2024/690. 
+ - rolnummer: 2024/2/C. 
+ - kamer: 10de kamer - Kortgeding Voorlopige Maatregelen art.584 Ger.w.  
+ - van:  
     * BV NorthgateArinso Belgium,  
     Lennikse Baan 451, 1070 Anderlecht,  
     ondernemingsnr: 0452.457.785  
     * Vennootschap naar Amerikaans recht: Alight Holding LLC,  
     Little Falls Drive 251, 19808 Delaware, Verenigde Staten van Amerika  
-    ondernemingsnummer: 6337515
- - tegen: Stephane van der Aa
-    * Van Volxemlaan 208 bus 31, 1190 Brussel/Vorst  
-    rijksregisternr: 76.10.25-157.80
+    ondernemingsnummer: 6337515. 
+ - tegen: Stephane van der Aa. 
+    * Van Volxemlaan 208 bus 31, 1190 Brussel/Vorst   
+    rijksregisternr: 76.10.25-157.80. 
  
 
 # Verzoekschrift hoger beroep 
@@ -156,14 +156,20 @@ Het beperken van het recht op vrije meningsuiting, een grondrecht, omwille van b
 __4. Wettige zelfverdediging en proportionaliteit van geschonden rechten__ 
 Voorwaarden voor wettige zelfverdediging:
  - Er moet een onrechtmatige aanval zijn: aanwezig door mentaal leiden leiden dat bovendien traumatiserend is.
- - De aanval moet onafwendbaar zijn: de gezondheidsproblemen zijn niet meteen duidelijk vooral trauma komt pas jaren nadien aan de oppervlakte. Ook onafwendbaar omdat nog de werkgever, nog overheid, voldoende instaan voor de veiligheid van de werknemer.
+ - De aanval moet onafwendbaar zijn: de gezondheidsproblemen zijn niet meteen duidelijk vooral trauma komt pas jaren nadien aan de oppervlakte. Ook onafwendbaar omdat nog de werkgever, nog overheid, voldoende instaan voor de veiligheid van de werknemer in dit geval. Alight was zowel in 2020 als in 2023 op de hoogte an mijn gezondheidstoestand maar zag dit als een moment van zwakte waar men mij beter kon aanpakken/aanvallen (uiteen gezette logica te bevestigen dooor de rechtbank  )
  - De aanval moet tegen personen gericht zijn: ja, tegen mij.
  - De reactie moet proportioneel zijn: .........
 
 
 Alight lijkt systematisch mensen in een zwakke positie te plaatsen om ze dan te kunnen misbruiken. Zo is het isoleren, weg van collega’s tijdens de covid periode nog uit te leggen maar meer getuigenissen lijken dit voor en na die periode ook aan te tonen. In zo’n situatie wordt de veiligheid van een medewerker door niemand verzekerd. De bewijslast ligt volledig bij het slachtoffer. Elke staat heeft enkel bestaansreden als het de veiligheid van haar burgers kan verzekeren. Wanneer een bedrijf dit weet te omzeilen om op de werkvloer wantoestanden ongestraft te laten dan is deze toestand op zich een probleem. Een medewerker die zich zo opgejaagd voelt rest enkel nog het kunnen berusten op de provisies die de wet voorziet voor wettelijke zelfverdediging. Alight kan zo schade berokkend worden door een medewerker, ex-medewerker of wie dan ook, omdat het zelf rechten schendt en daar ongestraft mee weg komt.
-Ik meen zelf toen in 2020 en nu in 2023 en 2024 geen rechten te hebben geschonden van Alight. Eerder heb ik uitgelegd hoe ik steeds goede intenties aan de dag heb gelegd naar Alight toe. Ik ben echter niet diegene die hier moet over oordelen. Mocht de rechtbank oordelen dat ik alsnog rechten van Alight heb geschonden wens ik dit recht om wettelijke zelfverdediging in te roepen.
-Over de vraag wanneer je kan spreken van een toxische werkomgeving heb ik zelf grondig nagedacht. Het criterium hiervoor zou men kunnen zien in het polsen bij collega’s. Wanneer een collega die naast u zit, niet langer, kan, wil of durft, bevestigen wat jou als slachtoffer overkwam, is er een ernstig probleem. Een werkgever zou eigenlijk steeds moeten kunnen garanderen dat mensen op mekaar kunnen steunen. Dit is niet alleen in geval van misbruik, maar gewoon hoe je goed kunt samenwerken. 
+
+Ik meen zelf toen in 2020 en nu in 2023 en 2024 geen rechten te hebben geschonden van Alight. Eerder heb ik uitgelegd hoe ik steeds goede intenties aan de dag heb gelegd naar Alight toe. Ik ben echter niet diegene die hier moet over oordelen. 
+
+In mijn relaas zette ik uiteen hoe ik in 2020 werd aangepakt tijdens het verloop, of fout verloop, van de ontslagprocedure. Alight heeft hier, indien bewezen geacht, verzaakt een veilige werkomgeving te bieden. De overheid kon of kwam niet tussen en ik zelf was door de impact van het gebeuren op mijn geestelijke gezondheid onvoldoende bewust problemen, fouten te kunnen zien en zelfs al zou dit toch nog gelukt zijn is nog de vraag of ik dan ook in staat zou zijn geweest verder hulp te zoeken bijvoorbeeld bij politie.
+
+Nu 3 jaar later doe ik dit wel in de eerste plaats om met Alight in dialoog te treden. In 2024 krijg ik met de aanklacht tegen mij het deksel op de neus en dit op een "einde-levensfase-moment" met lopende euthanasieaanvraag. Het is net het vernieuwde besef van mijn eigen eindigheid die mij doet terugblikken en me deed kiezen wat ik nu nog wil: verzoening en sereniteit. De houding van Alight nu ervaar ik als bijzonder agressief en aanvallend. Alight had in het verleden reeds aandeel in mijn ziekte die nu uitzichtloos is. Hoop op beterschap die ik ergens nog koester, moet toegegeven in mijn geest, terug wat plaats maken voor die donkeere gedachten. Vorm ik nu een gevaar voor mezelf in die mate dat de overheid moet ingrijpen? Zou ik tijdens een wanhoopsdaad dan ook een gevaar voor de samenleving kunnen vormen. Juridische begrippen en teksten houden me nu bezig en daarom niet die donkere gedachten. Maar moet Alight en probleem-individuën (i.b.g.) nu ook even niet onder de loep genomen worden. Vormt Alight en Boris Vanrillaer vandaag een gevaar voor de maatschappij en hunzelf? Hebben zij de wet overtreden (i.b.g.) omdat zij achtten dat de maatschappij hun rechten niet of onvoldoende gegarandeerd? Ik zie mezelf in de spiegel en denk: elke Belg is gelijk voor de wet.
+
+Even terug naar de werkomgeving waar het allemaal om te doen was aanvankelijk en over de vraag wanneer je kan spreken van een toxische werkomgeving heb ik zelf grondig nagedacht. Het criterium hiervoor zou men kunnen zien in het polsen bij collega’s. Wanneer een collega die naast u zit, niet langer, kan, wil of durft, bevestigen wat jou als slachtoffer overkwam, is er een ernstig probleem. Een werkgever zou eigenlijk steeds moeten kunnen garanderen dat mensen op mekaar kunnen steunen. Dit is niet alleen in geval van misbruik, maar het is gewoon hoe je goed kunt samenwerken. 
 
 __5. Patroon van systematisch misbruik__  
  - Vergelijking 2020 met 2023  
@@ -176,5 +182,5 @@ __5. Patroon van systematisch misbruik__
 Zelf werkte ik 16 jaar voor Alight. In 2004, toen het bedrijf nog Arinso heette en als rasecht Belgisch bedrijf in onze BEL20 beursindex genoteerd stond, vroeg de CEO, Jos Sluys, mij om voor Arinso te komen werken. Dit was toen een bedrijf waar iedereen graag werkte, ieder mekaar hielp. Wat mij nu overkomen is was toen ondenkbaar. Zelfs nu kan ik het gedrag van collega's die ik vroeger ten zeerste waardeerde waaronder Boris Vanrillaer zelf niet begrijpen. Wat is er met hem gebeurd dat hij en hij niet alleen overgaat tot wat ik alleen maar misbruik kan noemen. Het heeft me uiteindelijk aangezet zelfmoord te plegen. Het lijkt wel alsof er iets giftigs in de lucht rondzweeft bij Alight. Ik maak de vergelijking met stoflong bij mijnwerkers, een arbeidsziekte die eerst werd ontkent. In een ideale wereld zou een grondig psychologisch en neurologisch onderzoek bij Alight en de Products afdeling misschien omgevingsfactoren aan het licht brengen die de gezondheid van meerdere mensen schaden. Kan een "middel" leidden tot een vorm van "neurodeficiëntie" en zo mensen meer vatbaar maken voor degelijke praktijken te plegen en anderen dan weer meer tolerant om er niets aan te doen. De perikelen in de mijnbouw in de jaren 60 zijn lang verleden tijd en mijnwerkers zijn toen vergoed geworden door een fonds voor slachtoffers van stoflong.
 
 
-
+^i.b.g. : indien bewezen geacht
 
