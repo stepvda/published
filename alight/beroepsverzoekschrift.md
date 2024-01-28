@@ -126,7 +126,7 @@ Ik wil hiermee vooral overtuigen dat mijn bedoelingen steeds goed waren. Bovendi
 
  Er is een patroon van systematisch misbruik zichtbaar bij Alight en vaak met dezelfde persoon; Boris Vanrillaer. Meer en meer mensen die bij Alight werkten komen nu naar buiten met verhalen van wantoestanden. Anderen zijn na jaren nog steeds angstig en lijken zelfs nu nog geterroriseerd en durven nog niet openlijk hier over praten of zelfs getuigen voor een rechtbank. Commentaren op het linkedIn artikel tonen dit aan. Bijkomend heb ik  nog niet publiek gemaakte getuigenissen die ik verder blijf verzamelen en hopelijk met toestemming mag delen.
 
-__1. Recht op vrijheid van meningsuitting__
+__1. Recht op vrijheid van meningsuitting__  
 (referenties: https://www.belgischegrondwet.be/themas/vrijheid-van-meningsuiting/juridische-duiding)
 
 Men kan de vrijheid van meningsuiting omschrijven als de vrijheid om te zeggen en te schrijven wat je wil. Ook het bekomen en doorgeven van informatie en denkbeelden valt, ongeacht de aard en de vorm, onder de vrije mening. Dat geeft burgers de mogelijkheid om zich een mening te vormen over allerlei kwesties en op vrije manier deel te nemen aan het publieke debat. Vandaar dat de vrijheid van meningsuiting zo’n belangrijke plaats krijgt in een democratische samenleving.
@@ -153,13 +153,12 @@ Men moet echter ook de bedoelingen in acht nemen. Gaat het hier over “inlichti
 
 Het beperken van het recht op vrije meningsuiting, een grondrecht, omwille van beperkt "event", kan ook worden aanzien, wanneer dit vaak voorkomt bij verschillende zaken, als het uithollen van de rechten in de grondwet.
 
-__4. Wettige zelfverdediging en proportionaliteit van geschonden rechten__ 
+__4. Wettige zelfverdediging en proportionaliteit van geschonden rechten__  
 Voorwaarden voor wettige zelfverdediging:
  - Er moet een onrechtmatige aanval zijn: aanwezig door mentaal leiden leiden dat bovendien traumatiserend is.
  - De aanval moet onafwendbaar zijn: de gezondheidsproblemen zijn niet meteen duidelijk vooral trauma komt pas jaren nadien aan de oppervlakte. Ook onafwendbaar omdat nog de werkgever, nog overheid, voldoende instaan voor de veiligheid van de werknemer in dit geval. Alight was zowel in 2020 als in 2023 op de hoogte an mijn gezondheidstoestand maar zag dit als een moment van zwakte waar men mij beter kon aanpakken/aanvallen (uiteen gezette logica te bevestigen dooor de rechtbank  )
  - De aanval moet tegen personen gericht zijn: ja, tegen mij.
  - De reactie moet proportioneel zijn: .........
-
 
 Alight lijkt systematisch mensen in een zwakke positie te plaatsen om ze dan te kunnen misbruiken. Zo is het isoleren, weg van collega’s tijdens de covid periode nog uit te leggen maar meer getuigenissen lijken dit voor en na die periode ook aan te tonen. In zo’n situatie wordt de veiligheid van een medewerker door niemand verzekerd. De bewijslast ligt volledig bij het slachtoffer. Elke staat heeft enkel bestaansreden als het de veiligheid van haar burgers kan verzekeren. Wanneer een bedrijf dit weet te omzeilen om op de werkvloer wantoestanden ongestraft te laten dan is deze toestand op zich een probleem. Een medewerker die zich zo opgejaagd voelt rest enkel nog het kunnen berusten op de provisies die de wet voorziet voor wettelijke zelfverdediging. Alight kan zo schade berokkend worden door een medewerker, ex-medewerker of wie dan ook, omdat het zelf rechten schendt en daar ongestraft mee weg komt.
 
@@ -182,8 +181,11 @@ __5. Patroon van systematisch misbruik__
 Zelf werkte ik 16 jaar voor Alight. In 2004, toen het bedrijf nog Arinso heette en als rasecht Belgisch bedrijf in onze BEL20 beursindex genoteerd stond, vroeg de CEO, Jos Sluys, mij om voor hem te komen werken. Dit was toen een bedrijf waar iedereen graag werkte, ieder mekaar hielp. Wat mij nu overkomen is was toen ondenkbaar. Zelfs nu kan ik het gedrag van collega's die ik vroeger ten zeerste waardeerde waaronder Boris Vanrillaer zelf niet begrijpen. Wat is er met hem gebeurd dat hij en hij niet alleen overgaat tot wat ik alleen maar misbruik kan noemen. Het heeft me uiteindelijk aangezet zelfmoord te plegen. Het lijkt wel alsof er iets giftigs in de lucht rondzweeft bij Alight. Ik maak de vergelijking met stoflong bij mijnwerkers, een arbeidsziekte die eerst werd ontkent. In een ideale wereld zou een grondig psychologisch en neurologisch onderzoek bij Alight en de Products afdeling misschien omgevingsfactoren aan het licht brengen die de gezondheid van meerdere mensen schaden. Kan een "middel" leidden tot een vorm van "neurodeficiëntie" en zo mensen meer vatbaar maken voor degelijke praktijken te plegen en anderen dan weer meer tolerant om er niets aan te doen. De perikelen in de mijnbouw in de jaren 60 zijn lang verleden tijd en mijnwerkers zijn toen vergoed geworden door een fonds voor slachtoffers van stoflong.
 
 ## Bijlagen
+- 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslat. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.
 - Arbeidscontract (laatst herziene) van 2015 voor eventuele berekening schadeloosstelling 
 
+
+https://south.stepvda.net/alight/beroepsverzoekschrift
 
 
 ^i.b.g. : indien bewezen geacht
