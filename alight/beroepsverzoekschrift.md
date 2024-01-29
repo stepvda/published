@@ -165,7 +165,9 @@ Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag 
  - Groepsverzekeringspremies voor pensioenplan van Vivium
  - Hospitalisatieverzekeringspremies van DKV
  - Representatievergoeding van 170€ per maand 
- Merk op dat in het contract van 2015 (zie bijlage: 20150302-NGA-contract.pdf) er verwezen wordt naar een niet-concurrentiebeding van 12 maanden. Tijdens de onderhandelingen die tot de dading hebben geleid maakte men telkens gewag van 6 maanden. Kan de rechtbank voor eens en altijd trancheren in de vraag of Alight nu wel degelijk het ingediende ontslag van mij had moeten aanvaarden met de hierbovenvermelde gevolgen?
+ Zie het contract van 2015 (zie bijlage: 20150302-NGA-contract.pdf) 
+ 
+<!--  er verwezen wordt naar een niet-concurrentiebeding van 12 maanden. Tijdens de onderhandelingen die tot de dading hebben geleid maakte men telkens gewag van 6 maanden. Kan de rechtbank voor eens en altijd trancheren in de vraag of Alight nu wel degelijk het ingediende ontslag van mij had moeten aanvaarden met de hierbovenvermelde gevolgen? -->
 
 __3. Vrije meningsuiting vs laster en eerroof__   
 Het recht op vrijheid van meningsuiting omvat de vrijheid ‘inlichtingen en denkbeelden van welke aard ook te vergaren, te ontvangen en door te geven, ongeacht grenzen en ongeacht de vorm’. Met andere woorden, dit artikel (art. 19) schrijft zowel de vrijheid van meningsuiting als die van informatie voor. Wel kunnen, zoals VN-verdragen aangeven, beperkingen worden aangebracht door de wet, om de rechten van anderen of de openbare orde te beschermen. Zo is bijvoorbeeld het oproepen tot racisme en andere haatspraak verboden volgens het VN-Verdrag tegen rassendiscriminatie uit 1965.[3] Een ander VN-verdrag verbiedt propaganda voor het beginnen van een oorlog.
