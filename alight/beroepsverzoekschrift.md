@@ -139,8 +139,21 @@ Men moet in België rekening houden met het volledig verbod van preventieve bepe
 
 Het komt er dus op neer dat men in België tegen een meningsuiting enkel repressief (en niet preventief) zal kunnen optreden: pas nadat het publiek kennis heeft kunnen nemen van de mening, kan men maatregelen nemen. Wie een mening uit, kan dus slechts nadien hetzij burgerrechtelijk, hetzij tuchtrechtelijk, hetzij strafrechtelijk ter verantwoording worden geroepen. Zo kan bijvoorbeeld een rechter, die dreigende schade wil afwenden, de verspreiding van een tekst slechts verbieden wanneer de publicatie werkelijk verspreid is geweest. Ook de wetgever moet zich hieraan houden en mag bijvoorbeeld geen wet aannemen die informatie voor consumenten onderwerpt aan voorafgaandelijke toezicht op de kwaliteit ervan.
 
-__2. Dading in strijd met de wet__  
-Gezien voorgaande zijn clausules in de dading waar afgesproken wordt dat ik niets “slechts” over Alight mag zeggen bijgevolg ongeldig. Deze clausules zijn dan ook in strijd met de wet. Wanneer een deel van een contract in strijd is met de wet stelt de wet dat het gehele contract ongeldig is.
+__2. Dading in strijd met de wet__ 
+Dat men in België dus niet preventief mag optreden om het recht van vrijemeningsuiting te beperken betekend mijnsinziens ook dat clausule 11 (reputatie) uit de dading ongeldig is.  In deze clausule staat het volgende:
+
+``` 
+De Partijen zullen geen uitspraken doen of daden stellen (of het veroorzaken, voortzetten,
+bijstaan, uitlokken, aanmoedigen, ondersteunen of deelnemen hiervan of hieraan) of enige 
+informatie openbaar maken die denigrerend of kritisch is, of redelijkerwijs zo kan worden
+geinterpreteerd, of die elkaars reputatie kunnen aantasten of schade kunnen toebrengen op 
+welke manier dan ook.
+De heer Van der Aa verbindt er zich tevens toe zich te onthouden van iedere verklaring of 
+daad die de reputatie van zijn voormalige collega- werknemers, oversten of ondergeschikten
+kan aantasten of kan beschadigen.
+```  
+
+Gezien de nog voorgaande zijn clausules in de dading waar afgesproken wordt dat ik niets “slechts” over Alight mag zeggen bijgevolg ongeldig. Deze clausules zijn dan ook in strijd met de wet. Wanneer een deel van een contract in strijd is met de wet stelt de wet dat het gehele contract ongeldig is.
 
 In de dading wordt ook vermeld dat wanneer een deel hiervan niet geldig zou zijn de rest toch geldig blijft. Dit kan alleen indien er op zo’n moment een nieuwe dading of contract wordt gemaakt en ondertekend. Zo niet is er geen rechtszekerheid over omstandigheden die niet voordien kunnen worden voorzien. Terug een clausule in strijd met fundamentele rechtsbeginselen.
 
