@@ -85,7 +85,7 @@ In 2023, 3 jaar later ben ik pas gaan inzien dat hier iets raar is gebeurd: onts
 Daarnaast had ik niet alleen mijn ontslag ingediend, maar bovendien had ik reeds een toelating op zak had van de controlerende arts van de mutualiteit om ontslag met onmiddellijke ingang te kunnen nemen wegens medische reden. Met andere woorden Alight zou me geen opzeg moeten betalen en ik zou meteen weg gekunt hebben.
 
 Even terug naar de kern en niet verder afdwalen in procedure-technische punten. De vraag blijft: Waarom gebeurde dit?
-Zelf werd ik pas 3 jaar na de feiten hier van bewust dat dit is gebeurd. Het hele gedoe was voor mij dermate traumatiserend dat wat nu iets lijkt wat je onmogelijk zou moeten hebben kunnen missen, zich toen voor mij helemaal onbewust afspeelde. Na mijn ontslag had ik een advocaat onder de arm genomen. Wat er zich in de maand mei afspeelde kon ik allicht ook niet meer duidelijk maken aan hem, Meester Yoan Dubaere. Er van uit gaande dat voorgaande nu wel bewezen kan worden, heeft dit dus mijn verweermiddelen en wat mijn advocaat nog voor mij kon doen helemaal teniet gedaan.  
+Zelf werd ik pas 3 jaar na de feiten hier van bewust dat dit is gebeurd. Het hele gedoe was voor mij dermate traumatiserend dat wat nu iets lijkt wat je onmogelijk zou moeten hebben kunnen missen, zich toen voor mij helemaal onbewust afspeelde. Na mijn ontslag had ik een advocaat onder de arm genomen. Wat er zich in de maand mei afspeelde kon ik allicht ook niet meer duidelijk maken aan hem, Meester Joan Dubaere. Er van uit gaande dat voorgaande nu wel bewezen kan worden, heeft dit dus mijn verweermiddelen en wat mijn advocaat nog voor mij kon doen helemaal teniet gedaan.  
 
 De parallellen die ik hier maak, houden 2 situaties in die telkens rechtsmiddelen hanteren. In kortgeding werd door het Hof van Eerste Aanleg enkel een tijdelijk verbod op publicatie behouden. Nu de zaak ten gronde voorkomt kan men ook nagaan of Alight rechtmatig rechtsmiddelen gebruikt.  Een rechtsmiddel aanwenden voor kennelijk vertragende of onrechtmatige doeleinden, kan worden veroordeeld tot een geldboete en/of een bijkomende schadevergoeding. Indien  de rechter dit bewezen acht kan ook bepaald worden wat deze onrechtmatige doeleinden zijn. Het toebrengen van “slagen en verwondingen” lijkt mij hier gepast op basis:
  - Het herhalend karaker op basis vann bovenstaande parallellen. 
@@ -146,6 +146,27 @@ In de dading wordt ook vermeld dat wanneer een deel hiervan niet geldig zou zijn
 
 Indien de tegenpartij wist dat dergelijke clausules in de dading niet rechtsgeldig zijn kan men zich afvragen of de bedoeling hiervan intimidatie is? Echter, elke Belg wordt geacht de wet te kennen. Dit rest enkel nog de vraag: al dan niet intimidatie?
 
+__2.1 Wat als Alight wel mijn ingediend ontslag had aanvaard in mei 2020?__ 
+Even terug chronologisch wat er WEL is gebeurd:
+- 2020/05 Ontslag ingediend -> gewijgerd
+- 2020/08 Ontslagen worden 
+- 2021/06 Dading wordt overeengekomen.
+- 2023/08 Waarom mijn ingediend ontslag niet meteen aanvaarden
+
+Enkele vragen die dit doet reizen:
+Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden? 
+Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is?
+Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?
+Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
+Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag van vandaag nog niet ontslagen. Meer nog, technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaald worden. De achterstallige bedragen kunnen ook bevatten:
+ - Winstdeelname jaarlijks bonusplan
+ - Monetaire waarde van firmawagen en tankkaar
+ - GSM-abonnement, internet abonnement
+ - Groepsverzekeringspremies voor pensioenplan van Vivium
+ - Hospitalisatieverzekeringspremies van DKV
+ - Representatievergoeding van 170€ per maand 
+ Merk op dat in het contract van 2015 (zie bijlage: 20150302-NGA-contract.pdf) er verwezen wordt naar een niet-concurrentiebeding van 12 maanden. Tijdens de onderhandelingen die tot de dading hebben geleid maakte men telkens gewag van 6 maanden. Kan de rechtbank voor eens en altijd trancheren in de vraag of Alight nu wel degelijk het ingediende ontslag van mij had moeten aanvaarden met de hierbovenvermelde gevolgen?
+
 __3. Vrije meningsuiting vs laster en eerroof__   
 Het recht op vrijheid van meningsuiting omvat de vrijheid ‘inlichtingen en denkbeelden van welke aard ook te vergaren, te ontvangen en door te geven, ongeacht grenzen en ongeacht de vorm’. Met andere woorden, dit artikel (art. 19) schrijft zowel de vrijheid van meningsuiting als die van informatie voor. Wel kunnen, zoals VN-verdragen aangeven, beperkingen worden aangebracht door de wet, om de rechten van anderen of de openbare orde te beschermen. Zo is bijvoorbeeld het oproepen tot racisme en andere haatspraak verboden volgens het VN-Verdrag tegen rassendiscriminatie uit 1965.[3] Een ander VN-verdrag verbiedt propaganda voor het beginnen van een oorlog.
 
@@ -168,7 +189,7 @@ In mijn relaas zette ik uiteen hoe ik in 2020 werd aangepakt tijdens het verloop
 
 Nu 3 jaar later doe ik dit wel in de eerste plaats om met Alight in dialoog te treden. In 2024 krijg ik met de aanklacht tegen mij het deksel op de neus en dit op een "einde-levensfase-moment" met lopende euthanasieaanvraag. Het is net het vernieuwde besef van mijn eigen eindigheid die mij doet terugblikken en me deed kiezen wat ik nu nog wil: verzoening en sereniteit. De houding van Alight nu ervaar ik als bijzonder agressief en aanvallend. Alight had in het verleden reeds aandeel in mijn ziekte die nu uitzichtloos is. Hoop op beterschap die ik ergens nog koester, moet toegegeven in mijn geest, terug wat plaats maken voor die donkeere gedachten. Vorm ik nu een gevaar voor mezelf in die mate dat de overheid moet ingrijpen? Zou ik tijdens een wanhoopsdaad dan ook een gevaar voor de samenleving kunnen vormen. Juridische begrippen en teksten houden me nu bezig en daarom niet die donkere gedachten. Maar moet Alight en probleem-individuën (i.b.g.) nu ook even niet onder de loep genomen worden. Vormt Alight en Boris Vanrillaer vandaag een gevaar voor de maatschappij en hunzelf? Hebben zij de wet overtreden (i.b.g.) omdat zij achtten dat de maatschappij hun rechten niet of onvoldoende gegarandeerd? Ik zie mezelf in de spiegel en denk: elke Belg is gelijk voor de wet.
 
-Even terug naar de werkomgeving waar het allemaal om te doen was aanvankelijk en over de vraag wanneer je kan spreken van een toxische werkomgeving heb ik zelf grondig nagedacht. Het criterium hiervoor zou men kunnen zien in het polsen bij collega’s. Wanneer een collega die naast u zit, niet langer, kan, wil of durft, bevestigen wat jou als slachtoffer overkwam, is er een ernstig probleem. Een werkgever zou eigenlijk steeds moeten kunnen garanderen dat mensen op mekaar kunnen steunen. Dit is niet alleen77 in geval van misbruik, maar het is gewoon hoe je goed kunt samenwerken. 
+Even terug naar de werkomgeving waar het allemaal om te doen was aanvankelijk en over de vraag wanneer je kan spreken van een toxische werkomgeving heb ik zelf grondig nagedacht. Het criterium hiervoor zou men kunnen zien in het polsen bij collega’s. Wanneer een collega die naast u zit, niet langer, kan, wil of durft, bevestigen wat jou als slachtoffer overkwam, is er een ernstig probleem. Een werkgever zou eigenlijk steeds moeten kunnen garanderen dat mensen op mekaar kunnen steunen. Dit is niet alleen in geval van misbruik, maar het is gewoon hoe je goed kunt samenwerken. 
 
 __5. Patroon van systematisch misbruik__  
  - Vergelijking 2020 met 2023  
@@ -190,3 +211,22 @@ https://south.stepvda.net/alight/beroepsverzoekschrift
 
 ^i.b.g. : indien bewezen geacht
 
+
+
+
+- 2020/05 Ontslag ingediend -> gewijgerd
+- 2020/08 Ontslagen worden 
+- 2021/06 Dading wordt overeengekomen.
+- 2023/08 Waarom mijn ingediend ontslag niet meteen aanvaarden
+Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden? 
+Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is.
+Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn. 
+Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
+Q> Indien de rechtbank mijn redeneringen hierboven volgt, eer nog technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaalod worden. De achterstallige bedragen kunnen ook bevatten:
+ - Winstdeelname jaarlijks bonusplan
+ - Monetaire waarde van firmawagen en tankkaar
+ - GSM-abonnement, internet abonnement
+ - Groepsverzekeringspremies voor pensioenplan van Vivium
+ - Hospitalisatieverzekeringspremies van DKV
+ - Representatievergoeding van 170€ per maand 
+ Merk op dat in het contract van 2015 (zie bijlage: 20150302-NGA-contract.pdf) er verwezen wordt naar een niet-concurrentiebeding van 12 maanden. Tijdens de onderhandelingen die tot de dading hebben geleid maakte men telkens gewag van 6 maanden. Kan de rechtbank voor eens en altijd trancheren in de vraag of Alight nu wel degelijk het ingediende ontslag van mij had moeten aanvaarden met de hierbovenvermelde gevolgen?
