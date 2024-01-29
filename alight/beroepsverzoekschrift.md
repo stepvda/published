@@ -174,7 +174,7 @@ Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog een
 Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?
 Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
 Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag van vandaag nog niet ontslagen. Meer nog, technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaald worden. De achterstallige bedragen kunnen ook bevatten:
- - Winstdeelname jaarlijks bonusplan
+ <!-- - Winstdeelname jaarlijks bonusplan -->
  - Monetaire waarde van firmawagen en tankkaart
  - GSM-abonnement, internet abonnement
  - Groepsverzekeringspremies voor pensioenplan van Vivium
