@@ -147,6 +147,8 @@ In de dading wordt ook vermeld dat wanneer een deel hiervan niet geldig zou zijn
 Indien de tegenpartij wist dat dergelijke clausules in de dading niet rechtsgeldig zijn kan men zich afvragen of de bedoeling hiervan intimidatie is? Echter, elke Belg wordt geacht de wet te kennen. Dit rest enkel nog de vraag: al dan niet intimidatie?
 
 __2.1 Wat als Alight wel mijn ingediend ontslag had aanvaard in mei 2020?__ 
+Ik had toen ook mijn regeling van de mutualiteit kunnen gebruiken om zelf dringend ontslag in te dienen wegens medische problemen. De controlearts, Cristel Anteunis, van de CM, gaf reeds haar goedkeuring hiervoor. Ik zou dan de dag na aanvaarding ontslag door Alight reeds vertrokken zijn en het zou Alight vanaf die dag geen Euro meer gekost hebben. Het zou mij overigens ook heel wat kopzorgen en advocatenkosten hebben kunnen besparen. Maar vooral, het had nooit kunnen komern tot het tragische in de maand september, waar ik een zelfmoordpoging ondernam. 
+
 Even terug chronologisch wat er WEL is gebeurd:
 - 2020/05 Ontslag ingediend -> gewijgerd
 - 2020/08 Ontslagen worden 
@@ -160,7 +162,7 @@ Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?
 Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
 Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag van vandaag nog niet ontslagen. Meer nog, technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaald worden. De achterstallige bedragen kunnen ook bevatten:
  - Winstdeelname jaarlijks bonusplan
- - Monetaire waarde van firmawagen en tankkaar
+ - Monetaire waarde van firmawagen en tankkaart
  - GSM-abonnement, internet abonnement
  - Groepsverzekeringspremies voor pensioenplan van Vivium
  - Hospitalisatieverzekeringspremies van DKV
