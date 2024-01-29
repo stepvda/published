@@ -217,20 +217,3 @@ https://south.stepvda.net/alight/beroepsverzoekschrift
 
 
 
-
-- 2020/05 Ontslag ingediend -> gewijgerd
-- 2020/08 Ontslagen worden 
-- 2021/06 Dading wordt overeengekomen.
-- 2023/08 Waarom mijn ingediend ontslag niet meteen aanvaarden
-Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden? 
-Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is.
-Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn. 
-Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
-Q> Indien de rechtbank mijn redeneringen hierboven volgt, eer nog technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaalod worden. De achterstallige bedragen kunnen ook bevatten:
- - Winstdeelname jaarlijks bonusplan
- - Monetaire waarde van firmawagen en tankkaar
- - GSM-abonnement, internet abonnement
- - Groepsverzekeringspremies voor pensioenplan van Vivium
- - Hospitalisatieverzekeringspremies van DKV
- - Representatievergoeding van 170€ per maand 
- Merk op dat in het contract van 2015 (zie bijlage: 20150302-NGA-contract.pdf) er verwezen wordt naar een niet-concurrentiebeding van 12 maanden. Tijdens de onderhandelingen die tot de dading hebben geleid maakte men telkens gewag van 6 maanden. Kan de rechtbank voor eens en altijd trancheren in de vraag of Alight nu wel degelijk het ingediende ontslag van mij had moeten aanvaarden met de hierbovenvermelde gevolgen?
