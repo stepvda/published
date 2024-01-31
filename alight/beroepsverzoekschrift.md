@@ -53,7 +53,7 @@ Na vonnis kortgeding Rechtbank van Eerste Aanleg
 ## Grieven
 
 ### Waarom in beroep?
-Ik wens in beroep te gaan om in de eerste plaats de materie actueel te houden en nu specifiek het recht op vrije meningsuiting. Een persoonlijke ervaring delen en publiceren moet kunnen. Bovendien heb ik enkel goede bedoelingen hiermee en wil ik Alight of haar medewerkers geen schade berokkenen. Als dit nu toch zo zou uitdraaien dan heb ik, zoals ik verder zal uitleggen, hier zelf geen schuld aan. Het recht op vrije meningsuiting wordt vandaag vaak beknot zonder reden. Rechtsmiddelen worden nu als intimidatie ingezet door wie dit kan betalen. De basisbeginselen van onze rechtstaat en haar principes moeten primeren. De geest van de wet mag niet onderdoen voor de letter van de wet. Als ik nu diegene ben die recht staat en zegt “stop dit kan niet” dan zal het zo zijn. Het besef dat onze rechten (en plichten) er niet zomaar vanzelf zijn ontstaan, moet ook inhouden dat we bereid moeten zijn deze te verdedigen wanneer ze in gedrang komen.
+Ik wens in beroep te gaan om in de eerste plaats de materie actueel te houden en nu specifiek het recht op vrije meningsuiting. Een persoonlijke ervaring delen en publiceren moet kunnen. Bovendien heb ik enkel goede bedoelingen hiermee en wil ik Alight of haar medewerkers geen schade berokkenen. Als dit nu toch zo zou uitdraaien dan tref ik, zoals ik verder zal uitleggen, hier zelf geen schuld aan (i.b.g.). Het recht op vrije meningsuiting wordt vandaag vaak beknot zonder reden. Rechtsmiddelen worden nu als intimidatie ingezet door wie dit kan betalen. De basisbeginselen van onze rechtstaat en haar principes moeten primeren. De geest van de wet mag niet onderdoen voor de letter van de wet. Als ik nu diegene ben die recht staat, al mijn hebben en houden op het spel zet en zegt “stop dit kan niet” dan zal het zo zijn. Het besef dat onze rechten (en plichten) er niet zomaar vanzelf zijn ontstaan, moet ook inhouden dat we bereid zijn deze te verdedigen wanneer ze in gedrang komen.
 
 ### Relaas van de feiten
 
@@ -219,8 +219,18 @@ __5. Patroon van systematisch misbruik__
 Zelf werkte ik 16 jaar voor Alight. In 2004, toen het bedrijf nog Arinso heette en als rasecht Belgisch bedrijf in onze BEL20 beursindex genoteerd stond, vroeg de CEO, Jos Sluys, mij om voor hem te komen werken. Dit was toen een bedrijf waar iedereen graag werkte, ieder mekaar hielp. Wat mij nu overkomen is was toen ondenkbaar. Zelfs nu kan ik het gedrag van collega's die ik vroeger ten zeerste waardeerde waaronder Boris Vanrillaer zelf niet begrijpen. Wat is er met hem gebeurd dat hij en hij niet alleen overgaat tot wat ik alleen maar misbruik kan noemen. Het heeft me uiteindelijk aangezet zelfmoord te plegen. Het lijkt wel alsof er iets giftigs in de lucht rondzweeft bij Alight. Ik maak de vergelijking met stoflong bij mijnwerkers, een arbeidsziekte die eerst werd ontkent. In een ideale wereld zou een grondig psychologisch en neurologisch onderzoek bij Alight en de Products afdeling misschien omgevingsfactoren aan het licht brengen die de gezondheid van meerdere mensen schaden. Kan een "middel" leidden tot een vorm van "neurodeficiëntie" en zo mensen meer vatbaar maken voor degelijke praktijken te plegen en anderen dan weer meer tolerant om er niets aan te doen. De perikelen in de mijnbouw in de jaren 60 zijn lang verleden tijd en mijnwerkers zijn toen vergoed geworden door een fonds voor slachtoffers van stoflong.
 
 ## Bijlagen
-- 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslat. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.
-- Arbeidscontract (laatst herziene) van 2015 voor eventuele berekening schadeloosstelling 
+ - linkedIn_artikel.pdf Artikel wat aanleiding gaf tot kortgeding.  
+ - 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslat. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.  
+ - 20230131 - analyse intimiderende brief altius.docx Dit is mijn analyse van de brief hiervoor die toont hoe Altius intimiderend kan zijn.
+ - 20150302-NGA-contract.pdf Arbeidscontract (laatst herziene) van 2015 voor eventuele berekening schadeloosstelling.  
+ - 20240122 _email_Vonkel_opvolging euthanasie.pdf Als bewijsstuk voor lopende aanvraag euthanasie.  
+ - 20231017_Lydian_getekend_interviewverslag.pdf Dit is het verslag van Lydian van het interview wat ik afgelegd heb wat dan aanlijding gaf tot het onderzoek.  
+ - 20210616-DadingNGA.pdf Dading voor minnelijke schikking na ontslag.  
+ - 20240123 Beslissing kortgeding van Alight tegen mij voor publicatie artikel.pdf  
+ - 20200822152210 - aangetekende motivatie ontslag dringende reden.pdf
+ - 20240105145553_Pro_Justitia_from_Aight.pdf Dit is de dagvaarding kortgeding
+ - 20230914113952_Pro_Justitia.pdf Dit is een brief die ik via de gerechtsdeurwaarder werd bezorgd na initiële tweets. Ter verduidelijking ik wilde graag ingaan op het weghalen hiervan maar Altius gaf me uiteindelijke onvoldoende instructies over wat precies weg moest. Emails kunnen dit aantonen.
+
 
 
 https://south.stepvda.net/alight/beroepsverzoekschrift
