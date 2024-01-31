@@ -168,7 +168,7 @@ Even terug chronologisch wat er WEL is gebeurd:
 - 2021/06 Dading wordt overeengekomen.
 - 2023/08 Waarom mijn ingediend ontslag niet meteen aanvaarden
 
-Enkele vragen die dit doet reizen:
+Enkele vragen die dit doet reizen:  
 Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden?   
 Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is?  
 Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?  
