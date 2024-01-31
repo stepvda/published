@@ -30,10 +30,10 @@ __betreffende:__
     rijksregisternr: 76.10.25-157.80. 
  
 
-# Verzoekschrift hoger beroep 
+# Verzoekschrift hoger beroep  
 Na vonnis kortgeding Rechtbank van Eerste Aanleg 
 
-## Beslissingen waartegen beroep wordt aangetekend
+## Beslissingen waartegen beroep wordt aangetekend  
  
  - Bevel tot verwijdering publicatie artikel op LinkedIn met als titel: 'Alight and @Boris Vanrillaer made me commit suicide'
  - Verbod dit bericht onder dezelfde of andere vorm nog te publiceren.
@@ -42,7 +42,7 @@ Na vonnis kortgeding Rechtbank van Eerste Aanleg
     * 112,50€ rechtsplegingsvergoeding
 - Veroordeling van de verweerder tot de betaling van het rolrecht van 165€.
 
-## Nog te bepalen elementen van het verzoekschrift:
+## Nog te bepalen elementen van het verzoekschrift:  
 - Rechter in Hoger Beroep:
 - Plaats waar de gedaagde in hoger beroep akte moet laten nemen van zijn verklaring van verschijning:
 
@@ -50,12 +50,12 @@ Na vonnis kortgeding Rechtbank van Eerste Aanleg
     * Plaats:
     * Datum en tijdstip:
 
-## Grieven
+## Grieven  
 
-### Waarom in beroep?
+### Waarom in beroep?  
 Ik wens in beroep te gaan om in de eerste plaats de materie actueel te houden en nu specifiek het recht op vrije meningsuiting. Een persoonlijke ervaring delen en publiceren moet kunnen. Bovendien heb ik enkel goede bedoelingen hiermee en wil ik Alight of haar medewerkers geen schade berokkenen. Als dit nu toch zo zou uitdraaien dan tref ik, zoals ik verder zal uitleggen, hier zelf geen schuld aan (i.b.g.). Het recht op vrije meningsuiting wordt vandaag vaak beknot zonder reden. Rechtsmiddelen worden nu als intimidatie ingezet door wie dit kan betalen. De basisbeginselen van onze rechtstaat en haar principes moeten primeren. De geest van de wet mag niet onderdoen voor de letter van de wet. Als ik nu diegene ben die recht staat, al mijn hebben en houden op het spel zet en zegt “stop dit kan niet” dan zal het zo zijn. Het besef dat onze rechten (en plichten) er niet zomaar vanzelf zijn ontstaan, moet ook inhouden dat we bereid zijn deze te verdedigen wanneer ze in gedrang komen.
 
-### Relaas van de feiten
+### Relaas van de feiten  
 
 1. Situatie nu en impact op mijn gezondheid
 2. Parallelen 2020 en 2023 tonen patroon van terugkerend misbruik aan
@@ -68,7 +68,7 @@ Een gedetailleerde medische expertise werd na mijn ontslag (periode van mijn zel
 Het aandeel in de negatieve impact op mijn gezondheid van wat Alight mij aandeed, reeds sinds mijn start in 2004, is nog te bepalen. 
 Desalniettemin wil ik nu Alight verder trachten te responsabiliseren door nu kompenstie te vragen voor 3 jaar inkomstenverlies.
 
-__2. Parallellen 2020 – 2023__  
+__2. Parallellen 2020 – 2023__   
 Het verloop in 2023 om in dialoog te treden doet vragen reizen zoals:
  - Waarom stuurt Alight mij een zeer intimiderend Pro-Justitia na eerste reeks posts en tweets in de media vanaf mei 2023. Rechtstreeks contact opnemen zou voor de hand kunnen liggen?  
  - Het initiatief dat Alight nam om een intern onderzoek te starten met Lydian doet me hopen naar een dialoog, toch komt die er niet. Ik was zelf niet eens vragende partij naar dergelijk onderzoek.  
@@ -117,7 +117,7 @@ Door deze laatste stap van Alight met de kortgedingprocedure ben ik alweer menta
 Ik wil hiermee vooral overtuigen dat mijn bedoelingen steeds goed waren. Bovendien wil ik de tegenpartij helpen. Ik bied haar een kans eventuele fouten die gemaakt zijn te bekijken en indien erkend hier uit te leren. Hopelijk moet geen enkele andere medewerker nog dergelijk verhaal meemaken. Hopelijk kunnen wanhoopsdaden hiermee worden vermeden.
 
 
-### Mijn argumentatie
+### Mijn argumentatie  
  1. Recht op vrije meningsuiting 
  2. Alight verwijst vaak naar de dading die ik mee ondertekende na mijn ontslag. Dit contract is volgens mij in strijd met de wet en daarom ongeldig. Zo bevat de dading clausules die opleggen dat men niet publiekelijk over de toxische werkomgeving mag praten, terwijl deze er toch lijkt te bestaan. 
  3. Vrije meningsuiting t.o.v. schade door laster of eerroof
@@ -139,7 +139,7 @@ Men moet in België rekening houden met het volledig verbod van preventieve bepe
 
 Het komt er dus op neer dat men in België tegen een meningsuiting enkel repressief (en niet preventief) zal kunnen optreden: pas nadat het publiek kennis heeft kunnen nemen van de mening, kan men maatregelen nemen. Wie een mening uit, kan dus slechts nadien hetzij burgerrechtelijk, hetzij tuchtrechtelijk, hetzij strafrechtelijk ter verantwoording worden geroepen. Zo kan bijvoorbeeld een rechter, die dreigende schade wil afwenden, de verspreiding van een tekst slechts verbieden wanneer de publicatie werkelijk verspreid is geweest. Ook de wetgever moet zich hieraan houden en mag bijvoorbeeld geen wet aannemen die informatie voor consumenten onderwerpt aan voorafgaandelijke toezicht op de kwaliteit ervan.
 
-__2. Dading in strijd met de wet__ 
+__2. Dading in strijd met de wet__  
 Dat men in België dus niet preventief mag optreden om het recht van vrijemeningsuiting te beperken betekend mijnsinziens ook dat clausule 11 (reputatie) uit de dading ongeldig is.  In deze clausule staat het volgende:
 
 ``` 
@@ -159,7 +159,7 @@ In de dading wordt ook vermeld dat wanneer een deel hiervan niet geldig zou zijn
 
 Indien de tegenpartij wist dat dergelijke clausules in de dading niet rechtsgeldig zijn kan men zich afvragen of de bedoeling hiervan intimidatie is? Echter, elke Belg wordt geacht de wet te kennen. Dit rest enkel nog de vraag: al dan niet intimidatie?
 
-__2.1 Wat als Alight wel mijn ingediend ontslag had aanvaard in mei 2020?__ 
+__2.1 Wat als Alight wel mijn ingediend ontslag had aanvaard in mei 2020?__  
 Ik had toen ook mijn regeling van de mutualiteit kunnen gebruiken om zelf dringend ontslag in te dienen wegens medische problemen. De controlearts, Cristel Anteunis, van de CM, gaf reeds haar goedkeuring hiervoor. Ik zou dan de dag na aanvaarding ontslag door Alight reeds vertrokken zijn en het zou Alight vanaf die dag geen Euro meer gekost hebben. Het zou mij overigens ook heel wat kopzorgen en advocatenkosten hebben kunnen besparen. Maar vooral, het had nooit kunnen komern tot het tragische in de maand september, waar ik een zelfmoordpoging ondernam. 
 
 Even terug chronologisch wat er WEL is gebeurd:
@@ -191,7 +191,7 @@ Men moet echter ook de bedoelingen in acht nemen. Gaat het hier over “inlichti
 
 Het beperken van het recht op vrije meningsuiting, een grondrecht, omwille van beperkt "event", kan ook worden aanzien, wanneer dit vaak voorkomt bij verschillende zaken, als het uithollen van de rechten in de grondwet.
 
-__4. Wettige zelfverdediging en proportionaliteit van geschonden rechten__  
+__4. Wettige zelfverdediging en proportionaliteit van geschonden rechten__    
 Voorwaarden voor wettige zelfverdediging:
  - Er moet een onrechtmatige aanval zijn: aanwezig door mentaal leiden leiden dat bovendien traumatiserend is.
  - De aanval moet onafwendbaar zijn: de gezondheidsproblemen zijn niet meteen duidelijk vooral trauma komt pas jaren nadien aan de oppervlakte. Ook onafwendbaar omdat nog de werkgever, nog overheid, voldoende instaan voor de veiligheid van de werknemer in dit geval. Alight was zowel in 2020 als in 2023 op de hoogte an mijn gezondheidstoestand maar zag dit als een moment van zwakte waar men mij beter kon aanpakken/aanvallen (uiteen gezette logica te bevestigen dooor de rechtbank  )
@@ -215,12 +215,12 @@ __5. Patroon van systematisch misbruik__
  - Getuigenissen van anderen 
  - Bedrijfscultuur van misbruik en het gedogen straalt af en zet andere leidinggevenden aan dit ook te doen.
 
-### Slotbedenking 
+### Slotbedenking  
 Zelf werkte ik 16 jaar voor Alight. In 2004, toen het bedrijf nog Arinso heette en als rasecht Belgisch bedrijf in onze BEL20 beursindex genoteerd stond, vroeg de CEO, Jos Sluys, mij om voor hem te komen werken. Dit was toen een bedrijf waar iedereen graag werkte, ieder mekaar hielp. Wat mij nu overkomen is was toen ondenkbaar. Zelfs nu kan ik het gedrag van collega's die ik vroeger ten zeerste waardeerde waaronder Boris Vanrillaer zelf niet begrijpen. Wat is er met hem gebeurd dat hij en hij niet alleen overgaat tot wat ik alleen maar misbruik kan noemen. Het heeft me uiteindelijk aangezet zelfmoord te plegen. Het lijkt wel alsof er iets giftigs in de lucht rondzweeft bij Alight. Ik maak de vergelijking met stoflong bij mijnwerkers, een arbeidsziekte die eerst werd ontkent. In een ideale wereld zou een grondig psychologisch en neurologisch onderzoek bij Alight en de Products afdeling misschien omgevingsfactoren aan het licht brengen die de gezondheid van meerdere mensen schaden. Kan een "middel" leidden tot een vorm van "neurodeficiëntie" en zo mensen meer vatbaar maken voor degelijke praktijken te plegen en anderen dan weer meer tolerant om er niets aan te doen. De perikelen in de mijnbouw in de jaren 60 zijn lang verleden tijd en mijnwerkers zijn toen vergoed geworden door een fonds voor slachtoffers van stoflong.
 
-## Bijlagen
+## Bijlagen  
  - linkedIn_artikel.pdf Artikel wat aanleiding gaf tot kortgeding.  
- - 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslat. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.  
+ - 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslag. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.  
  - 20230131 - analyse intimiderende brief altius.docx Dit is mijn analyse van de brief hiervoor die toont hoe Altius intimiderend kan zijn.
  - 20150302-NGA-contract.pdf Arbeidscontract (laatst herziene) van 2015 voor eventuele berekening schadeloosstelling.  
  - 20240122 _email_Vonkel_opvolging euthanasie.pdf Als bewijsstuk voor lopende aanvraag euthanasie.  
