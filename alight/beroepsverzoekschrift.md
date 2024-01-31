@@ -139,7 +139,7 @@ Men moet in België rekening houden met het volledig verbod van preventieve bepe
 
 Het komt er dus op neer dat men in België tegen een meningsuiting enkel repressief (en niet preventief) zal kunnen optreden: pas nadat het publiek kennis heeft kunnen nemen van de mening, kan men maatregelen nemen. Wie een mening uit, kan dus slechts nadien hetzij burgerrechtelijk, hetzij tuchtrechtelijk, hetzij strafrechtelijk ter verantwoording worden geroepen. Zo kan bijvoorbeeld een rechter, die dreigende schade wil afwenden, de verspreiding van een tekst slechts verbieden wanneer de publicatie werkelijk verspreid is geweest. Ook de wetgever moet zich hieraan houden en mag bijvoorbeeld geen wet aannemen die informatie voor consumenten onderwerpt aan voorafgaandelijke toezicht op de kwaliteit ervan.
 
-__2. Dading in strijd met de wet__  
+__2. Dading in strijd met de wet__   
 Dat men in België dus niet preventief mag optreden om het recht van vrijemeningsuiting te beperken betekend mijnsinziens ook dat clausule 11 (reputatie) uit de dading ongeldig is.  In deze clausule staat het volgende:
 
 ``` 
@@ -169,11 +169,11 @@ Even terug chronologisch wat er WEL is gebeurd:
 - 2023/08 Waarom mijn ingediend ontslag niet meteen aanvaarden
 
 Enkele vragen die dit doet reizen:
-Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden? 
-Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is?
-Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?
-Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)? 
-Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag van vandaag nog niet ontslagen. Meer nog, technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaald worden. De achterstallige bedragen kunnen ook bevatten:
+Q> Kan rechter mij volgen dat Alight mijn ingediend ontslag meteen had en ook moeten aanvaarden?   
+Q> Zo ja, wat betekend dit dat door deze weigering, Alight mij zelf niet nog eens kon ontslaan en het geschreen ontslag gegeven door Alight ongeldig is?  
+Q> Bijgevolg zou hierdoor ook de dading ongeldig zijn?  
+Q> Kan de rechtbank dit bevestigen (gewoon+dringende reden waren in 2020 dus ongeldig)?   
+Q> Indien de rechtbank mijn redeneringen hierboven volgt, dan ben ik tot de dag van vandaag nog niet ontslagen. Meer nog, technisch zou ik dan nog steeds onder contract zijn bij Alight. Een achterstallig loon van augustus 2020 tot nu zou dan nog moeten betaald worden. De achterstallige bedragen kunnen ook bevatten:  
  <!-- - Winstdeelname jaarlijks bonusplan -->
  - Monetaire waarde van firmawagen en tankkaart
  - GSM-abonnement, internet abonnement
