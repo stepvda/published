@@ -27,7 +27,7 @@ __betreffende:__
     ondernemingsnummer: 6337515. 
  - tegen: Stephane van der Aa. 
     * Van Volxemlaan 208 bus 31, 1190 Brussel/Vorst   
-    rijksregisternr: 76.10.25-157.80. 
+    * rijksregisternr: 76.10.25-157.80. 
  
 
 # Verzoekschrift hoger beroep  
@@ -63,7 +63,7 @@ Ik wens in beroep te gaan om in de eerste plaats de materie actueel te houden en
 
 __1. Situatie nu en impact op mijn gezondheid__  
 De aanklacht van Alight tegen mij, en dan vooral de éénzijdige beslissing van Alight om een juridische procedure tegen mij te starten, zijn factoren die op dit moment mijn gezondheid verder en sneller doen achteruitgaan. Sinds mijn ontslag in 2020 (zie ook dading) ben ik ononderbroken op invaliditeit komen te staan. Eerdere gezondheidsproblemen waarvoor ik mij sinds 2012 ben beginnen laten behandelen zijn nu blijvend en ondertussen, na meer dan 10 jaar intensieve psychiatrische hulpverlening, inclusief 2 langdurige opnames over een periode van 2 jaar, ben ik uitbehandeld. Ik heb tijdens mijn pogingen tot toenadering, in 2023, Alight hiervan op de hoogte gebracht ondermeer door aan te geven dat ik sinds januari 2023 een aanvraagprocedure voor euthanasie heb lopen. Deze procedure is halverwege en wordt ondermeer verzorgd door centrum Vonkel te Gent (gekend van Dokter Lieve Thienpont) en uiteraard ook door mijn huisarts. In bijlage vindt u de laatste email met Vonkel: 20240122 _email_Vonkel_opvolging euthanasie.pdf 
-Een gedetailleerde medische expertise werd na mijn ontslag (periode van mijn zelfmoordpoging) nog uitgevoerd voor Vivium, de groepsverzekering van Alight. Dit geeft een goed overzicht van mijn leiden. Deze expertise werd uitgevoerd door Prof. Dokter Chris Dillen, (forensisch psychiater en gerechtsdeskundige) en omvat 62 pagina’s. Dit document is ook de kern van mijn euthanasieaanvraag die lopende is. Dit is uiteraard vertrouwelijke informatie, maar indien nodig ben ik bereid dit en andere medische verslagen te delen (ref. opnames UPC Kortenberg van begin 2016 tot zomer 2017) wanneer u, of de tegenpartij, mij hier reden toe geeft.__
+Een gedetailleerde medische expertise werd na mijn ontslag (periode van mijn zelfmoordpoging) nog uitgevoerd voor Vivium, de groepsverzekering van Alight. Dit geeft een goed overzicht van mijn leiden. Deze expertise werd uitgevoerd door Prof. Dokter Chris Dillen, (forensisch psychiater en gerechtsdeskundige) en omvat 62 pagina’s. Dit document is ook de kern van mijn euthanasieaanvraag die lopende is. Dit is uiteraard vertrouwelijke informatie, maar indien nodig ben ik bereid dit en andere medische verslagen te delen (ref. opnames UPC Kortenberg van begin 2016 tot zomer 2017) wanneer u, of de tegenpartij, mij hier reden toe geeft.
 
 Het aandeel in de negatieve impact op mijn gezondheid van wat Alight mij aandeed, reeds sinds mijn start in 2004, is nog te bepalen. 
 Desalniettemin wil ik nu Alight verder trachten te responsabiliseren door nu kompenstie te vragen voor 3 jaar inkomstenverlies.
