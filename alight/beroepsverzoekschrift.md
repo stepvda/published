@@ -142,16 +142,16 @@ Het komt er dus op neer dat men in België tegen een meningsuiting enkel repress
 __2. Dading in strijd met de wet__   
 Dat men in België dus niet preventief mag optreden om het recht van vrijemeningsuiting te beperken betekend mijnsinziens ook dat clausule 11 (reputatie) uit de dading ongeldig is.  In deze clausule staat het volgende:
 
-``` 
-De Partijen zullen geen uitspraken doen of daden stellen (of het veroorzaken, voortzetten,
-bijstaan, uitlokken, aanmoedigen, ondersteunen of deelnemen hiervan of hieraan) of enige 
-informatie openbaar maken die denigrerend of kritisch is, of redelijkerwijs zo kan worden
-geinterpreteerd, of die elkaars reputatie kunnen aantasten of schade kunnen toebrengen op 
-welke manier dan ook.
-De heer Van der Aa verbindt er zich tevens toe zich te onthouden van iedere verklaring of 
-daad die de reputatie van zijn voormalige collega- werknemers, oversten of ondergeschikten
-kan aantasten of kan beschadigen.
-```  
+
+> De Partijen zullen geen uitspraken doen of daden stellen (of het veroorzaken, voortzetten,
+> bijstaan, uitlokken, aanmoedigen, ondersteunen of deelnemen hiervan of hieraan) of enige 
+> informatie openbaar maken die denigrerend of kritisch is, of redelijkerwijs zo kan worden
+> geinterpreteerd, of die elkaars reputatie kunnen aantasten of schade kunnen toebrengen op 
+> welke manier dan ook.
+> De heer Van der Aa verbindt er zich tevens toe zich te onthouden van iedere verklaring of 
+> daad die de reputatie van zijn voormalige collega- werknemers, oversten of ondergeschikten
+> kan aantasten of kan beschadigen.
+
 
 Gezien de nog voorgaande zijn clausules in de dading waar afgesproken wordt dat ik niets “slechts” over Alight mag zeggen bijgevolg ongeldig. Deze clausules zijn dan ook in strijd met de wet. Wanneer een deel van een contract in strijd is met de wet stelt de wet dat het gehele contract ongeldig is.
 
@@ -220,7 +220,7 @@ Zelf werkte ik 16 jaar voor Alight. In 2004, toen het bedrijf nog Arinso heette 
 
 ## Bijlagen  
  - linkedIn_artikel.pdf Artikel wat aanleiding gaf tot kortgeding.  
- - 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslag. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.  
+ - 20201005-Racine-brief_analyse_ontslag-PDF_04023983.PDF Geeft de analyse van mijn advocaat, Meester Yoan Dubaere, van de situatie na ontslag. Spreekt niet van weigering van ontslag wat ik zelf indiende in de maand mei.  Het antwoord van Altius op deze brief is ook in bijlage beschikbaar hier: 20201006_Altius-Vertrouwelijk_schrijven_tav_Joan Dubaere(Kopie)_04023985.pdf
  - 20230131 - analyse intimiderende brief altius.docx Dit is mijn analyse van de brief hiervoor die toont hoe Altius intimiderend kan zijn.
  - 20150302-NGA-contract.pdf Arbeidscontract (laatst herziene) van 2015 voor eventuele berekening schadeloosstelling.  
  - 20240122 _email_Vonkel_opvolging euthanasie.pdf Als bewijsstuk voor lopende aanvraag euthanasie.  
