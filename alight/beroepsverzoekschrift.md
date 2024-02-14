@@ -4,7 +4,7 @@ date: 2024-01-27
 
 ---
 
-datum: 27 januari 2024
+datum: 27 januari 2024 (2de pogine indiening via edeposit op 12/02/2024)
 
 __afzender:__  
 Stephane van der Aa  
@@ -47,8 +47,8 @@ Na vonnis kortgeding Rechtbank van Eerste Aanleg
 - Plaats waar de gedaagde in hoger beroep akte moet laten nemen van zijn verklaring van verschijning:
 
 - Eerste verschijning:
-    * Plaats:
-    * Datum en tijdstip:
+    * Plaats: Brussel 2de kamer, zaal 16
+    * Datum en tijdstip: 25/03/2024 om 8u45
 
 ## Grieven  
 
