@@ -6,7 +6,7 @@ You can also download elsewhere without these files splitted in smaller ZIP file
 
  - link to Google Drive: <https://drive.google.com/drive/folders/1Mw7Rk47uVZz8YJY3Rbb_5VpY5Opuy6vV?usp=sharing>  
  - link to OneDrive: <https://1drv.ms/f/s!ArYMGOcEc8Hxg-IpXkIDNGXKDEaWBw?e=hAuaNM>   
- - link to iCloud: ....coming soon
+ - link to iCloud: <https://www.icloud.com/iclouddrive/087xJlDcVIzZpzrjpQe6bciBA#hijack_copy_2>
 
 
 ## Where to find more info on me and this
